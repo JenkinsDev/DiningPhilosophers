@@ -1,0 +1,4 @@
+[package]
+name = "dining_philosophers"
+version = "0.1.0"
+authors = ["David Jenkins <david.nicholas.jenkins@gmail.com>"]
